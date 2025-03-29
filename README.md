@@ -28,3 +28,25 @@ Find students with low attendance (< 50%) and analyze their performance.
 
 Identify students with high participation scores and their impact on grades.
 
+3. Lifestyle & Performance Correlation
+
+Compare study hours per week with total scores.
+
+Analyze the effect of sleep hours per night on student performance.
+
+4. Stress Level & Academic Performance
+
+Find the average stress level per department.
+
+Determine the students with highest stress levels and their total scores.
+
+🛠 Technologies Used
+
+MySQL: Used for data analysis and query execution.
+
+SQL Queries: Used for extracting insights and cleaning data.
+
+GitHub: Used for project documentation and version control.
+
+
+
