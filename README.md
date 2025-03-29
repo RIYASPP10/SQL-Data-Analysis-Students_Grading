@@ -12,3 +12,19 @@ Academic Performance: Attendance (%), Midterm_Score, Final_Score, Assignments_Av
 
 Lifestyle Factors: Study_Hours_per_Week, Extracurricular_Activities, Internet_Access_at_Home, Parent_Education_Level, Family_Income_Level, Stress_Level (1-10), Sleep_Hours_per_Night
 
+🔍 Key SQL Queries & Insights
+
+1. Academic Performance Analysis
+
+Identify students with the highest and lowest total scores.
+
+Find the average midterm and final scores per department.
+
+Determine the top 5 students based on total scores.
+
+2. Attendance & Participation Trends
+
+Find students with low attendance (< 50%) and analyze their performance.
+
+Identify students with high participation scores and their impact on grades.
+
